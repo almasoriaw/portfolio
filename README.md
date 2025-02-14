@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Alma Soria!
 
-**🎓 Junior Cloud Engineer | 🌦 DevOps Enthusiast | 📊 Machine Learning Analyst Student**
+**🎓 Junior Cloud  Engineer | 🌦 DevOps Enthusiast | 📊 Machine Learning Analyst Student**
 
 Welcome to my GitHub portfolio! I’m passionate about learning and building solutions in cloud computing, DevOps, and machine learning. I’m currently pursuing a **Machine Learning Analyst Diploma** and working on exciting projects in cloud technologies and data analytics.
 
@@ -20,16 +20,16 @@ Welcome to my GitHub portfolio! I’m passionate about learning and building sol
 
 ## 📚 Certifications:
 - AI Programming with Python – **Udacity AWS AI & ML Scholarship Recipient**  
-- Google Cloud Skills Boost – Multiple skill badges in **Data & Machine Learning**
+- Google Certified Professional Cloud Architect - Dec. 2024 - Dec 2026
 
 ## ✨ Fun Facts:
 - I’m originally from **Guadalajara, Jalisco, Mexico**, and I’m now a **Canadian citizen**. 🇲🇽 → 🇨🇦  
 - My personality type is **INFJ-T (Advocate)**, and I love helping others while solving complex problems!  
-- I’m learning to improve my English-speaking skills for job interviews and technical conversations. 📢
+
 
 ## 📫 How to Reach Me:
 - **LinkedIn:** [linkedin.com/in/almasoria](https://www.linkedin.com/in/almasoria)  
-- **Email:** almasoria.dev@gmail.com (replace with your real email)
+- **Email:** alma.soriaw@gmail.com
 
 ---
 
