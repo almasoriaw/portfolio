@@ -1,14 +1,13 @@
 # 👋 Hello, I'm Alma Soria!
 
-**🎓 Junior Cloud  Engineer | 🌦 DevOps Enthusiast | 📊 Machine Learning Analyst Student**
+** 📊 Machine Learning Analyst Student | Google Certified Professional Cloud Architect | 🌦 DevOps Enthusiast | 🎓 BSc Biopharmaceutical Chemistry **
 
 Welcome to my GitHub portfolio! I’m passionate about learning and building solutions in cloud computing, DevOps, and machine learning. I’m currently pursuing a **Machine Learning Analyst Diploma** and working on exciting projects in cloud technologies and data analytics.
 
 ## 🔧 My Skills & Interests:
 - **Cloud Computing:** AWS, Google Cloud Platform (GCP)
-- **DevOps Tools:** Docker, Kubernetes, Terraform, CI/CD, Vagrant
+- **DevOps Tools:** Docker, Kubernetes, Terraform, CI/CD, Vagrant, Maven, Jenkins
 - **Data & Machine Learning:** Python, SQL (Redshift, PostgreSQL), Pandas, PyTorch
-- **ETL & Data Pipelines:** Airbyte, Apache Airflow
 - **Web Development:** HTML, CSS, JavaScript (basic knowledge)
 
 ## 🌟 Current Projects:
